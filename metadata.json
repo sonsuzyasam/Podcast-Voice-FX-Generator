@@ -1,0 +1,5 @@
+{
+  "name": "Podcast Voice & FX Generator",
+  "description": "An application to generate podcast audio from a script, allowing for different voices for each speaker and the inclusion of sound effects using Gemini's text-to-speech capabilities.",
+  "requestFramePermissions": []
+}
